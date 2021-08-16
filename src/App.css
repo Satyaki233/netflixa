@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  scrollbar-width: none;
+  -webkit-scrollbar-width:none;
 }
 
 .App-logo {

@@ -8,9 +8,12 @@ import Menu from './Components/Menu/Menu';
 function App() {
   return (
     <div className="App">
+
+     
       <Menu/>
       <Intro/>
      <Content/>
+     <h1>this is netflixa</h1>
     </div>
   );
 }
